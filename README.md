@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou Davi Araujo
 
 🎯 **Sobre mim**  
 - 💻 Desenvolvedor e gosto de tecnologia e inovação  
@@ -25,19 +25,19 @@ Here are some ideas to get you started:
 
 ## 🔧 Linguagens e Ferramentas
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode" />
 </div>
 ---
 
 ## 🌎 Onde me encontrar
-- [LinkedIn](https://linkedin.com/in/SEU_USUARIO)  
+- [LinkedIn](www.linkedin.com/in/davi-araujo-133a75316)  
 - [Portfólio](https://SEU_SITE.com)
 - [instagram](https://https://www.instagram.com/davi.araujo_01?igsh=cXY0cjlpMnd4c2Rq&utm_source=qr)
-- ## 🌎 Onde me encontrar
-
-<a href="https://instagram.com/SEU_USUARIO" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
-</a>
+<p align="center">
+  <a href="https://www.instagram.com/davi.araujo_01?igsh=cXY0cjlpMnd4c2Rq&utm_source=qr" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
+  </a>
+</p>
 
 
 ---
